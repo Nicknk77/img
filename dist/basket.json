@@ -15,7 +15,7 @@
             "productPrice":69,
             "productImg":"https://raw.githubusercontent.com/Nicknk77/img/master/GB_img/infeature5.jpg",
             "productId":"prod_4",
-            "stars":" class='half-star'",
+            "stars":" class='empty-star'",
             "amount": 1
         }
     ]
