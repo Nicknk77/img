@@ -7,7 +7,7 @@
             "productPrice":67,
             "productImg":"https://raw.githubusercontent.com/Nicknk77/img/master/GB_img/infeature4.jpg",
             "productId":"prod_3",
-            "stars":"",
+            "stars":" class='half-star'",
             "amount": 2
         },
         {
@@ -15,7 +15,7 @@
             "productPrice":69,
             "productImg":"https://raw.githubusercontent.com/Nicknk77/img/master/GB_img/infeature5.jpg",
             "productId":"prod_4",
-            "stars":"",
+            "stars":" class='half-star'",
             "amount": 1
         }
     ]
