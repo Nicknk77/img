@@ -1,0 +1,30 @@
+[
+    {	
+    "item": "Home",
+    "anchor":"#"
+},
+{
+    "item": "Men",
+    "anchor":"#"
+},
+{
+    "item": "Women",
+    "anchor":"#"
+},
+{
+    "item": "Kids",
+    "anchor":"#"
+},
+{
+    "item": "Accessories",
+    "anchor":"#"
+},
+{
+    "item": "Featured",
+    "anchor":"#"
+},
+{
+    "item": "Hot Deals",
+    "anchor":"#"
+}
+]

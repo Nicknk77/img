@@ -1,0 +1,77 @@
+[
+	{
+		"title": "company",
+		"menu":[
+			{	
+				"item": "Home",
+				"anchor":"#"
+			},
+			{
+				"item": "Shop",
+				"anchor":"#"
+			},
+			{
+				"item": "About",
+				"anchor":"#"
+			},
+			{
+				"item": "How It Works",
+				"anchor":"#"
+			},
+			{
+				"item": "Contact",
+				"anchor":"#"
+			}
+		]
+	},
+	{
+		"title": "information",
+		"menu":[
+			{	
+				"item": "Terms and Conditions",
+				"anchor":"#"
+			},
+			{
+				"item": "Privacy Polocy",
+				"anchor":"#"
+			},
+			{
+				"item": "How to Buy",
+				"anchor":"#"
+			},
+			{
+				"item": "How to Sell",
+				"anchor":"#"
+			},
+			{
+				"item": "Promotion",
+				"anchor":"#"
+			}
+		]
+	},
+	{
+		"title": "shop category",
+		"menu":[
+			{	
+				"item": "Men",
+				"anchor":"#"
+			},
+			{
+				"item": "Women",
+				"anchor":"#"
+			},
+			{
+				"item": "Child",
+				"anchor":"#"
+			},
+			{
+				"item": "Apparel",
+				"anchor":"#"
+			},
+			{
+				"item": "Browse All",
+				"anchor":"#"
+			}
+		]
+	}
+]
